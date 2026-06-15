@@ -53,6 +53,9 @@ Performed INNER, LEFT, and multi‑table JOINs to combine related data such as:
 
 These JOINs enabled richer reporting and deeper insights.
 
+<img width="394" height="190" alt="image" src="https://github.com/user-attachments/assets/cb7766db-1f8a-41ad-be33-ec6f3b3125a6" />
+<img width="302" height="287" alt="image" src="https://github.com/user-attachments/assets/28e9d19e-010d-422e-9257-2f6f1a602428" />
+
 ---
 
 ## 📈 Example Insights Generated
